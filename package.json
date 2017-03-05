@@ -1,0 +1,24 @@
+{
+  "name": "docker-electron-armhf",
+  "version": "0.1.0",
+  "description": "No Description",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/dcwangmit01/docker-electron-armhf",
+  "keywords": [
+    "dcwangmit01",
+    "entry-ui"
+  ],
+  "author": "dcwangmit01",
+  "license": "",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootswatch": "^3.3.7",
+    "virtual-keyboard": "^1.26.17"
+  }
+}

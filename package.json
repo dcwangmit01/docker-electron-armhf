@@ -14,7 +14,7 @@
   "author": "dcwangmit01",
   "license": "",
   "devDependencies": {
-    "electron": "^1.4.1"
+    "electron": "^9.1.0"
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
